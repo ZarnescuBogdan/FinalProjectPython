@@ -1,0 +1,50 @@
+{
+  "2": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "2",
+    "titlu": "It",
+    "anAparitie": "2007",
+    "pretBilet": 27.0,
+    "inProgram": "nu"
+  },
+  "3": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "3",
+    "titlu": "Saw",
+    "anAparitie": "2007",
+    "pretBilet": 22.0,
+    "inProgram": "nu"
+  },
+  "4": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "4",
+    "titlu": "The Godfather",
+    "anAparitie": "2011",
+    "pretBilet": 28.0,
+    "inProgram": "nu"
+  },
+  "101": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "101",
+    "titlu": "2",
+    "anAparitie": "2",
+    "pretBilet": 2.0,
+    "inProgram": "da"
+  },
+  "79": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "79",
+    "titlu": "The Godfather",
+    "anAparitie": "2010",
+    "pretBilet": 15.0,
+    "inProgram": "da"
+  },
+  "53": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "53",
+    "titlu": "Fast&Furious",
+    "anAparitie": "2010",
+    "pretBilet": 23.5,
+    "inProgram": "da"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "1": {
+    "py/object": "Domain.cardClient.CardClient",
+    "idEntitate": "1",
+    "nume": "1",
+    "prenume": "1",
+    "CNP": "1234567890123",
+    "dataNasterii": "01.01.1111",
+    "dataInregistrarii": "01.11.1111",
+    "puncteAcumulate": 48
+  },
+  "2": {
+    "py/object": "Domain.cardClient.CardClient",
+    "idEntitate": "2",
+    "nume": "2",
+    "prenume": "2",
+    "CNP": "1234567890543",
+    "dataNasterii": "01.01.1111",
+    "dataInregistrarii": "02.02.2222",
+    "puncteAcumulate": 26
+  },
+  "3": {
+    "py/object": "Domain.cardClient.CardClient",
+    "idEntitate": "3",
+    "nume": "1",
+    "prenume": "1",
+    "CNP": "1234567890126",
+    "dataNasterii": "01.01.1111",
+    "dataInregistrarii": "01.11.1111",
+    "puncteAcumulate": 30
+  }
+}
