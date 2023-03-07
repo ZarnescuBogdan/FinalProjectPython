@@ -1,0 +1,12 @@
+{
+  "1": {
+    "py/object": "Domain.cardClient.CardClient",
+    "idEntitate": "1",
+    "nume": "Zarnescu",
+    "prenume": "Bogdan",
+    "CNP": "5020622170123",
+    "dataNasterii": "22.06.2002",
+    "dataInregistrarii": "21.11.2021",
+    "puncteAcumulate": 0
+  }
+}

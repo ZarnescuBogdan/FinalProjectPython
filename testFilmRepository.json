@@ -1,0 +1,10 @@
+{
+  "1": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "1",
+    "titlu": "Fast&Furious",
+    "anAparitie": "2008",
+    "pretBilet": 30.0,
+    "inProgram": "da"
+  }
+}
